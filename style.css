@@ -37,9 +37,6 @@ header {
   font-weight: 600;
   padding: 10px;
 }
-.nav-links a:hover{
-scale: 1.5;
-}
 
 .logo img {
   height: 50px;
@@ -49,6 +46,9 @@ scale: 1.5;
   display: flex;
   gap: 30px;
   align-items: center;
+  position: absolute;
+  right: 5%;
+  top: 3%;
 }
 
 .icons a {
